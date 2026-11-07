@@ -1,0 +1,6 @@
+{
+  "name": "ShopSphere - MERN E-Commerce Application",
+  "description": "Full stack MERN E-commerce application with Admin and Customer roles, JWT authentication, product catalog, cart, checkout, order tracking, reviews, coupons, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
